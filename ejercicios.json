@@ -2,48 +2,29 @@
   {
     "id": 1,
     "biceps": "yHxqkFPxtG0",
-    "espalda": "bkMQI-IMgFs",
-    "triceps": "<iframe>https://www.youtube.com/embed/ApXoWvfEYVU?controls=0></iframe>",
-    "pecho": "<iframe>https://www.youtube.com/embed/boXuvG9Epnc?controls=0></iframe>"
     
   },
 
   {
     "id": 2,
-    "biceps": "P3P8WVmrdgw",
-    "espalda": "_w8VsNGOU9o",
-    "triceps": "<iframe>https://www.youtube.com/embed/dNRC137o0j8?controls=0></iframe>",
-    "pecho": "<iframe>https://www.youtube.com/embed/qWeGmU-5Y0U?controls=0></iframe>"   
+    "biceps": "P3P8WVmrdgw",   
   },
 
   {
     "id": 3,
-    "biceps": "xX1uJNYkrLw",
-    "espalda": "olaYF7Yxj6w",
-    "triceps": "<iframe>https://www.youtube.com/embed/ApXoWvfEYVU?controls=0></iframe>",
-    "pecho": "<iframe>https://www.youtube.com/embed/boXuvG9Epnc?controls=0></iframe>"    
+    "biceps": "xX1uJNYkrLw",  
   },
 
   {
     "id": 4,
-    "biceps": "rTeXRIPXnmU",
-    "espalda": "le6vJ6P1m-k",
-    "triceps": "<iframe>https://www.youtube.com/embed/dNRC137o0j8?controls=0></iframe>",
-    "pecho": "<iframe>https://www.youtube.com/embed/qWeGmU-5Y0U?controls=0></iframe>"    
+    "biceps": "rTeXRIPXnmU",   
   },
   
   {
     "id": 5,
-    "biceps": "RkUUgFWWv_4",
-    "espalda": "yivnESPCjak",
-    "triceps": "<iframe>https://www.youtube.com/embed/dNRC137o0j8?controls=0></iframe>",
-    "pecho": "<iframe>https://www.youtube.com/embed/qWeGmU-5Y0U?controls=0></iframe>"    
+    "biceps": "RkUUgFWWv_4",   
   },
-  
-  {
-    "id": 6,
-    "espalda": "bSPTcqQH20c"
-  }
+
   
   
 ]
